@@ -7,3 +7,4 @@ Run the .exe file after opening the game.
 # Tutorial Video
 https://user-images.githubusercontent.com/114495317/192783364-56eeea9d-b387-46c5-b80e-f1954f15d8f0.mp4
 
+# [Click here to download](https://github.com/mehsain/Among-Us-Free-Chat-Unlocker/releases/download/v0.1/Among.Us.Free.Chat.Unlocker.exe)
